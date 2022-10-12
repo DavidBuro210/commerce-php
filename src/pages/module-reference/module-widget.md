@@ -39,7 +39,7 @@ This module introduces the following layouts and layout handles in the directori
     - `adminhtml_widget_instance_edit`
     - `adminhtml_widget_instance_index`
     - `adminhtml_widget_loadoptions`
-- `view/frantend/layout`:
+- `view/frontend/layout`:
     - `default`
     - `print`
     
